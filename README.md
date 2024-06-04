@@ -15,3 +15,4 @@ IDE : Intellij
 <div align="center">
 <img src="https://github.com/klausmerini/Cucumber_com_Selenium_basico/assets/109608171/aba6ded3-e5f0-41b8-9d60-c450c4eaf45f" width="550px" /)
 </div>      
+![Captura de tela de 2024-06-04 16-39-07](https://github.com/klausmerini/Cucumber_e_Selenium/assets/109608171/ba81ebda-ac17-4000-a594-ee287a3202a7)
