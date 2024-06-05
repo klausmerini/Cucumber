@@ -1,7 +1,9 @@
 # Cucumber, Selenium e Page Object Model
 Consiste em um exemplo simples de integração do Cucumber com Selenuim WebDriver, testando em um browser  
 Google Chrome  75.0.3770.100.  
-Um teste de uma busca no google, e um segundo teste de login no Jira. É aplicado o design pattern Page Object Model ou POM, que separa as informações de mapeamento dos objetos das páginas testadas e ações do usuário, reduzindo a re-escrita de código, no caso de mudanças no site testado, e no caso de se escrever novos testes, em que o usuário execute ações iguais. 
+O cucumber gera um relatório em HTML, exibido na última imagem.    
+Um teste de uma busca no google, e um segundo teste de login no Jira.    
+É aplicado o design pattern Page Object Model ou POM, que separa as informações de mapeamento dos objetos das páginas testadas e ações do usuário, reduzindo a re-escrita de código, no caso de mudanças no site testado, e no caso de se escrever novos testes, em que o usuário execute ações iguais.    
 IDE : Intellij      
 
 <div align="center">
@@ -31,3 +33,8 @@ IDE : Intellij
 <div align="center">
 <img src="https://github.com/klausmerini/Cucumber_e_Selenium/assets/109608171/d6ab2b2c-1522-4483-881a-b1e969054ad8)"  width="750px" /)
 </div>  
+
+<div align="center">
+<img src="https://github.com/klausmerini/Cucumber_e_Selenium/assets/109608171/48859db2-96f1-4a76-a754-f521508a50f4)"  width="750px" /)
+</div>  
+
